@@ -1,6 +1,6 @@
 ## Index of source code examples:
 
 \Extract Text From Areas
-\Recognize text from document
+\Recognize Text From Document
 \Use Image Preprocessing Filters
 \Use Text Auto Corrections
