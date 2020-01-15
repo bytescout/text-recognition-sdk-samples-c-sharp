@@ -2,5 +2,6 @@
 
 \Extract Text From Areas
 \Recognize Text From Document
+\Screen Text Reader
 \Use Image Preprocessing Filters
 \Use Text Auto Corrections
