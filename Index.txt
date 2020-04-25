@@ -3,6 +3,8 @@
 \Download and Process file
 \Extract Text From Areas
 \Recognize Text From Document
+\Save OCR Objects As JSON
+\Save OCR Objects As XML
 \Screen Text Reader
 \Use Image Preprocessing Filters
 \Use Text Auto Corrections
